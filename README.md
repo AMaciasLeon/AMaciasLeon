@@ -1,42 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <style>
-    body {
-      font-family: 'Arial', sans-serif;
-      line-height: 1.6;
-      margin: 2em;
-      padding: 1em;
-      max-width: 800px;
-      background-color: #f5f5f5;
-    }
-
-    h1, h2, h3 {
-      color: #333;
-    }
-
-    p {
-      color: #666;
-    }
-
-    a {
-      color: #4078c0;
-    }
-
-    ul {
-      list-style-type: none;
-      padding: 0;
-    }
-
-    li::before {
-      content: '›';
-      margin-right: 5px;
-      color: #666;
-    }
-  </style>
-  <title>GitHub Profile</title>
+<title>GitHub Profile</title>
 </head>
 <body>
 
