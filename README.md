@@ -28,7 +28,10 @@
     <p>Here are some of my projects:</p>
     <ul>
       <li>
-        <strong>Locky's Bot:</strong> A simple discord bot.
+        <strong>Locky's Bot: </strong> A simple discord bot.
+      </li>
+       <li>
+        Comming soon.
       </li>
     </ul>
   </section>
