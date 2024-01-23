@@ -10,17 +10,16 @@
     <h2>About Me</h2>
     <p>
       Hello! I'm a dedicated developer with a passion for creating innovative solutions. My expertise
-      lies in [your main skills/technologies].
+      lies in web, mobile, games, ai.
     </p>
   </section>
 
   <section>
     <h2>Skills</h2>
     <ul>
-      <li>Programming Languages: JavaScript, Python, HTML, CSS</li>
-      <li>Frameworks: React, Node.js, Flask</li>
+      <li>Programming Languages: JavaScript, Python, Java, HTML, CSS, PHP</li>
+      <li>Frameworks: Vue, Node.js, Flask</li>
       <li>Databases: MongoDB, MySQL</li>
-      <!-- Add more as needed -->
     </ul>
   </section>
 
@@ -29,12 +28,8 @@
     <p>Here are some of my notable projects:</p>
     <ul>
       <li>
-        <strong>Project 1:</strong> Short description and link to the project repository.
+        <strong>Locky's Bot:</strong> A simple discord bot.
       </li>
-      <li>
-        <strong>Project 2:</strong> Short description and link to the project repository.
-      </li>
-      <!-- Add more projects as needed -->
     </ul>
   </section>
 
@@ -42,10 +37,7 @@
     <h2>Connect with Me</h2>
     <p>Let's connect! You can find me on:</p>
     <ul>
-      <li><a href="https://github.com/yourusername">GitHub</a></li>
-      <li><a href="https://linkedin.com/in/yourname">LinkedIn</a></li>
-      <li><a href="https://twitter.com/yourhandle">Twitter</a></li>
-      <!-- Add more social links as needed -->
+      <li><a href="https://discord.gg/URXS2KFuxv">Discord server/a></li>
     </ul>
   </section>
 
