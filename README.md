@@ -31,7 +31,7 @@
         <strong>Locky's Bot: </strong> A simple discord bot.
       </li>
        <li>
-        Comming soon.
+        Coming soon.
       </li>
     </ul>
   </section>
