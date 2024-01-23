@@ -1,16 +1,96 @@
-### Hi there 👋
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <style>
+    body {
+      font-family: 'Arial', sans-serif;
+      line-height: 1.6;
+      margin: 2em;
+      padding: 1em;
+      max-width: 800px;
+      background-color: #f5f5f5;
+    }
 
-<!--
-**AMaciasLeon/AMaciasLeon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+    h1, h2, h3 {
+      color: #333;
+    }
 
-Here are some ideas to get you started:
+    p {
+      color: #666;
+    }
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    a {
+      color: #4078c0;
+    }
+
+    ul {
+      list-style-type: none;
+      padding: 0;
+    }
+
+    li::before {
+      content: '›';
+      margin-right: 5px;
+      color: #666;
+    }
+  </style>
+  <title>GitHub Profile</title>
+</head>
+<body>
+
+  <header>
+    <h1>Your Name</h1>
+    <p>Passionate Developer | Code Enthusiast | Problem Solver</p>
+  </header>
+
+  <section>
+    <h2>About Me</h2>
+    <p>
+      Hello! I'm a dedicated developer with a passion for creating innovative solutions. My expertise
+      lies in [your main skills/technologies].
+    </p>
+  </section>
+
+  <section>
+    <h2>Skills</h2>
+    <ul>
+      <li>Programming Languages: JavaScript, Python, HTML, CSS</li>
+      <li>Frameworks: React, Node.js, Flask</li>
+      <li>Databases: MongoDB, MySQL</li>
+      <!-- Add more as needed -->
+    </ul>
+  </section>
+
+  <section>
+    <h2>Projects</h2>
+    <p>Here are some of my notable projects:</p>
+    <ul>
+      <li>
+        <strong>Project 1:</strong> Short description and link to the project repository.
+      </li>
+      <li>
+        <strong>Project 2:</strong> Short description and link to the project repository.
+      </li>
+      <!-- Add more projects as needed -->
+    </ul>
+  </section>
+
+  <section>
+    <h2>Connect with Me</h2>
+    <p>Let's connect! You can find me on:</p>
+    <ul>
+      <li><a href="https://github.com/yourusername">GitHub</a></li>
+      <li><a href="https://linkedin.com/in/yourname">LinkedIn</a></li>
+      <li><a href="https://twitter.com/yourhandle">Twitter</a></li>
+      <!-- Add more social links as needed -->
+    </ul>
+  </section>
+
+  <footer>
+    <p>Thanks for visiting! Feel free to explore my repositories and reach out if you have any questions.</p>
+  </footer>
+
+</body>
+</html>
