@@ -1,4 +1,3 @@
-<title>GitHub Profile</title>
 </head>
 <body>
 
