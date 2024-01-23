@@ -2,7 +2,7 @@
 <body>
 
   <header>
-    <h1>Your Name</h1>
+    <h1>Álex Macías</h1>
     <p>Passionate Developer | Code Enthusiast | Problem Solver</p>
   </header>
 
