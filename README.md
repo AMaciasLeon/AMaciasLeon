@@ -25,7 +25,7 @@
 
   <section>
     <h2>Projects</h2>
-    <p>Here are some of my notable projects:</p>
+    <p>Here are some of my projects:</p>
     <ul>
       <li>
         <strong>Locky's Bot:</strong> A simple discord bot.
