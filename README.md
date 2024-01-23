@@ -40,7 +40,7 @@
     <h2>Connect with Me</h2>
     <p>Let's connect! You can find me on:</p>
     <ul>
-      <li><a href="https://discord.gg/URXS2KFuxv">Discord server/a></li>
+      <li><a href="https://discord.gg/URXS2KFuxv">Discord server</li>
     </ul>
   </section>
 
