@@ -18,7 +18,7 @@
     <h2>Skills</h2>
     <ul>
       <li>Programming Languages: JavaScript, Python, Java, HTML, CSS, PHP</li>
-      <li>Frameworks: Vue, Node.js, Flask</li>
+      <li>Frameworks: Vue, Node.js, Flask, Express, Django</li>
       <li>Databases: MongoDB, MySQL</li>
     </ul>
   </section>
