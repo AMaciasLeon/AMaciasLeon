@@ -20,6 +20,7 @@
       <li>Programming Languages: JavaScript, Python, Java, HTML, CSS, PHP</li>
       <li>Frameworks: Vue, Node.js, Flask, Express, Django</li>
       <li>Databases: MongoDB, MySQL</li>
+      <li>Videogames: Godot</li>
     </ul>
   </section>
 
